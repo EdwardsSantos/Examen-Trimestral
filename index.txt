@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Haus Flowers </title>
+</head>
+<frameset rows="20%,*" noresize>
+	<frame name="Fila1" src="título.html">
+	<frameset cols="20%,*">
+		<frame name="col1" src="menú.html">
+		<frame name="col2">
+	</frameset>
+</frameset>
+</html>

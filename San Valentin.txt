@@ -1,0 +1,152 @@
+
+
+<html>
+<head>
+<h1 align="center">San Valentin</h1>
+<title></title>
+<font size="5" face="Arial">
+<hr size="3" width="75%" color="black" noshades>
+</head>
+</font>
+<body>
+<body background="fotos/fondo1.jpg">
+<a name="menú">MENÚ</a><br>
+<li><a href="#13 tipos de flores para San Valentin">13 tipos de flores para San Valentin</a></li>
+<li><a href="#Kimchi">Kimchi</a></li>
+<li><a href="#La N Seoul Tower">La N Seoul Tower</a></li>
+<li><a href="#Kimbap">Kimbap</a></li>
+
+<h3>¿Se acerca San Valentín y todavía no sabes que regalarle a la persona que amas? En este artículo, desde Haus Flowers, te damos algunas ideas y te recomendamos las mejores flores para San Valentín.</h3>
+
+<br>
+<a href="san1.jpg"target="blank"><img style="border: 15px solid; color: green; " img src="fotos/san1.jpg" alt="San Valentin" align="center" width="1450" height="580"></a>
+
+<h3>Regalar flores para el día de San Valentínes una tradición entre los enamorados que desean expresar su amor. Es un regalo muy especial porque son el símbolo de la belleza, de la delicadeza, del romanticismo, de la pasión…. ¿a qué estás esperando?</h3>
+
+
+<font size="3" face="Arial" >
+
+<a name="13 tipos de flores para San Valentin"></a>
+<h1><i><b><u>13 tipos de flores para San Valentin</h1></i></b></u>
+<h2><b>Rosas</h2></b>
+<p align="justified">
+Las rosas son las flores más clásicas para el día de los enamorados, nunca pasan de moda. Su belleza es tan espectacular que continúan siendo las reinas de los jardines. Existe una gran variedad de rosas, por lo que podrás elegir aquella que mejor se adapte a tu gusto. Sin embargo, siempre es un acierto recurrir en San Valentín al tradicional ramo de rosas rojas, pues simbolizan el amor y la pasión que existe entre dos personas, por ello es una de las flores que regalar en San Valentín preferida por todos.
+</p>
+<a href="#menú">Ir al inicio</a>
+
+<a href="rosasgif.gif"target="blank"><img style="border: 15px solid; color: green; " img src="fotos/rosasgif.gif" alt="palacio" align="left" width="550" height="580">
+
+<a href="rosasgif2.gif"target="blank"><img style="border: 15px solid; color: green; " img src="fotos/rosasgif2.gif" alt="palacio" align="left" width="550" height="580">
+
+<a href="rosasgif3.gif"target="blank"><img style="border: 15px solid; color: green; " img src="fotos/rosasgif3.gif" alt="palacio" align="left" width="550" height="580">
+<hr size="3" width="75%" color="black" noshades>
+
+<font size="3" face="Arial" >
+
+<a name="Kimchi"></a>
+<h2><u><i>Kimchi</h2></u></i>
+</font>
+<a href="kimchi.gif"target="blank"><img style="border: 15px solid; color: blue; " img src="kimchi.gif" align="right" align="right" width="530" height="430">
+</a><a href="kimchi1.gif"target="blank"><img style="border: 15px solid; color: white; " img src="kimchi1.gif" align="right"align="right" width="530" height="430"></a>
+<p align=justified">Aclaramos algo antes de continuar: el kimchi no es un plato, ¡es un acompañamiento! Tanto es así que en los restaurantes lo sirven directamente en la mesa incluso antes de hacer el pedido. Porque los coreanos no conciben una comida sin él, así de sencillo, y da igual que hablemos  del desayuno, el almuerzo o la cena. ¡El kimchi es el verdadero rey de la gastronomía coreana!
+<br>
+Bien, ¿y de qué hablamos cuando nos referimos al kimchi? Pues de col fermentada —aunque, a veces, se utilizan otro tipo de vegetales, como el nabo o el repollo— sazonada con diferentes especias, algunas de ellas picantes —ojo, porque el tema del picante en la comida en este país es un continuo—, que le dan un sabor muy, pero que muy característico y que, según cuentan, no solo tiene pocas calorías, sino que, además, retrasa el envejecimiento y es bueno para el sistema inmunológico. 
+</p>
+<h2><u><i>INGREDIENTES </h2></u></i>
+<li><i>Una col china grande o dos pequeñas </li></i>
+<li><i>Una taza de sal marina gruesa </li></i>
+<li><i>5 tazas o 1250 ml de agua </li></i>
+<li><i>150 gr de rábano de Corea</li></i>
+<br><br>
+<p><b><i><u>Para el marinado o aliño del kimchi></p></b></i></u>
+<li><i>1 cucharada de harina de arroz dulce </li></i>
+<li><i>4 cucharadas gochugaru, (Corea del polvo de chile rojo) </li></i>
+<li><i>2 cebollas frescas </li></i>
+<li><i>1 zanahoria </li></i>
+<li><i>4 dientes de ajo </li></i>
+<li><i>Jengibre fresco rallado media cucharadita </li></i>
+<li><i>Manzana picada </li></i>
+<li><i>Una cucharada y media de salsa de pescado </li></i>
+<li><i>1 ½ cucharadas de salsa de pescado </li></i>
+<li><i>Semillas de sésamo </li></i>
+<li><i>½ taza de agua </li></i>
+
+<a href="#menú">Ir al inicio</a>
+<h2><u><i>Cómo preparar Kimchi</h2></u></i>
+<ol>
+<li><i>No tengas prisa a la hora de preparar esta delicia en casa, se tardará como mínimo una semana en tener nuestra col perfectamente fermentada. </li></i>
+<li><i>Nos pondremos manos a la obra eligiendo la col adecuada, en este caso una col china. Podemos usar una convencional, el sabor es muy parecido cambia la forma. </li></i>
+<li><i>Lavamos la col y la cortamos en trocitos. La vamos a poner en el escurridor hasta que pierda un poco más de agua y nos quede seca. </li></i>
+<li><i>Con la materia prima preparada llega el momento de empezar la fermentación. Buscamos un recipiente en el que nos quepa la col. </li></i>
+<li><i>La vamos a sumergir en 5 vasos de agua y 3 cucharadas de sal, de esta manera empezará a fermentarse, tapamos bien y dejamos que se macere en la nevera toda la noche. </li></i>
+<li><i>Escurrimos la col que se habrá ablandado, es el primer paso para obtener la fermentación que buscamos.  </li></i>
+<li><i>Colocamos parte del líquido y todos los del aliño kimchi en un bol. Colocamos la col en él y mezclamos bien.  </li></i>
+<li><i>Tapamos de nuevo y esperamos unos 6 días hasta que la col ha fermentado. Llegados a este punto, debes saber que a más días de fermentación más sabor.  </li></i>
+<li><i>Atrévete con tu kimchi casero, el resultado si te gusta la col y los alimentos fermentados, te encantará y es de lo más saludable. Podrás preparar las croquetas de David Muñoz en casa.  </li></i>
+
+<a href="#menú">Ir al inicio</a>
+
+<font size="3" face="Arial">
+
+<a name="La N Seoul Tower"></a>
+<h1><i><b><u>La N Seoul Tower</h1></i></b></u>
+</font>
+<font size="3" face="Arial">
+<p align="justified">
+<a href="https://mochilerosentailandia.com/2019/05/n-seoul-tower/"><img style="border: 15px solid; color: red;" img src="seoul.gif" alt="Coliseo Romano" align="right" width="530" height="530"></a>Localizada en el parque Namsan en el área central de Seúl, esta torre de comunicaciones, construida en 1969 fue abierta para el público en 1980 y se ha convertido en un elemento emblemático de Seúl. Desde su base, su altura alcanza los 236 metros, por lo que se trata de una estructura bastante imponente.
+<br><br>
+Es común que el público haga uso del teleférico de Namsam para poder alcanzar la cima de la montaña en la que se encuentra la torre. Luego de esto, deben emprender una caminata hasta esta. Al llegar, se pueden encontrar tiendas de regalos y restaurantes, entre otros atractivos.
+<br><br>
+Como se puede esperar, las vistas de la ciudad desde la torre son espectaculares, ya que la mayor parte de esta es observable desde su punto más alto. La estructura posee además cuatro plataformas de observación para el disfrute de sus visitantes, por lo que se trata de una visita muy recomendada.
+<br><br>
+N Seoul Tower oficialmente YTN Seoul Tower (conocida también como Torre Namsan o Torre de Seúl) es una torre de comunicaciones ubicada en el parque de Namsan, en el centro de Seúl, Corea del Sur. Construida en 1969, fue abierta al público en 1980, la torre ha devenido un símbolo de Seúl. Tiene una altura de 236,7 m. (a partir de la base) y se encuentra a 479,7 m. sobre el nivel del mar. También se le ha conocido como la Torre Namsan o la Torre de Seúl. Después de que el propietario inicial de la torre se fusionara con CJ Corporation, fue rebautizada con el nombre de la N Seoul Tower (nombre oficial CJ Seoul Tower).
+<br><br>
+La mayoría de los visitantes toman el Teleférico de Namsan hasta la cima de la montaña y, a continuación, a pie hasta la torre. La torre cuenta con una tienda de regalos y restaurantes en la planta baja. Los visitantes pueden subir a la torre previo pago de una entrada. Hay cuatro plataformas de observación (la 4º plataforma de observación, que es el restaurante giratorio, gira a una velocidad de una revolución cada 48 minutos), así como tiendas de regalos y dos restaurantes. La mayor parte de la ciudad de Seúl se puede observar desde la parte superior. En su punta tiene las antenas de trasmisión de KBS, MBC, SBS, PBC, TBS, CBS y BBS.
+<br><br>
+La Torre Namsan esta divida en 7 pisos donde se pueden encontrar tiendas de recuerdos, tiendas temáticas, restaurantes y un observatorio. Dentro del complejo destacan los siguientes puntos de intereses.
+<br><br>
+Junto a la entrada de la N Tower, se encuentra la Terraza de los Candados del Amor. Con cientos de miles de candados, dejados por parejas de enamorados a lo largo de todos estos años, la terraza se ha convertidos en uno de los rincones mas famosos de la N Tower. Según la tradición, los jóvenes enamorados dejan aqui sus candados en señal de amor eterno. Lo mas curioso del lugar, son las esculturas hechas con los miles de estos candados.
+<br><br>
+Localizado en la segunda planta del edificio, el Estanque de los Deseos (Wishing Pond) es otro de los rincones mas populares. En el estanque las parejas de enamorados sueltan monedas en señal de amor. Estas monedas recogidas sirven a su vez para financiar proyectos educativos en escuelas repartidas por todo el Sudeste Asiático.
+</p>
+<a href="#menú">Ir al inicio</a>
+
+<a name="Kimbap"></a>
+<h1><i><b><u>Kimbap</h1></i></b></u>
+
+<a href="kimbap.gif"target="blank"><img style="border: 15px solid; color: blue; " img src="kimbap.gif" align="left"></a>
+
+<p align="justified">El kimbap (김밥) es un plato típico de Corea que consiste en un rollo de arroz con varios ingredientes y todo envuelto en un alga. Estos ingredientes van cambiando, y suelen incluir verduras marinadas o encurtidas, huevo, carne, pescado, etc.
+
+Kimbap (también llamado gimbap) se traduce literalmente como alga (kim) y arroz (bap) y se come en multitud de ocasiones. Es muy típico prepararlo para llevárselo de picnic, comerlo en la calle como comida callejera o en cafeterías de universidades.
+<br>
+<h2><i><u>¿Sushi coreano? Diferencias entre el sushi y el kimbap</h2></i></u>
+Es habitual encontrarse, fuera de Corea, nombres para el kimbap que poco tienen que ver con este delicioso rollo de arroz. Uno de los más habituales es encontrar recetas de “sushi coreano”, algo que es erróneo, pero ¿cuáles son las diferencias entre el sushi y el kimbap? Pues de los muchos ingredientes del kimbap, sólo el arroz y el alga coinciden con el sushi, siendo el pescado crudo el más representativo del sushi, que no está en el kimbap..</p><br><br><br><br>
+<h2><u><i>Ingredientes</h2></u></i>
+<li><i>Arroz </li></i>
+<li><i>Alga seca </li></i>
+<li><i>Atún en lata (natural) </li></i>
+<li><i>Espinacas</li></i>
+<li><i>Zanahorias </li></i>
+<li><i>Rábano encurtido coreano (danmuji). Es difícil de encontrar, por lo que puede sustituirse por algún encurtido tipo pepinillos o pepino. </li></i>
+<li><i>sal y pimienta </li></i>
+<li><i>Aceite de sésamo</li></i>
+<li><i>Salsa de soja  </li><I>
+<a href="#menú">Ir al inicio</a>
+<h2><u><i>Como hacer Kimbap</h2></u></i>
+<ol>
+<li><i>Hervimos el arroz con un poquito menos de agua de lo habitual </li></i>
+<li><i>Cortamos en juliana muy finita la zanahoria y el rábano encurtido
+ </li></i>
+<li><i>Sofreímos la zanahoria</li></i>
+<li><i>Sofreímos las espinacas añadiendo unas gotas de aceite de sésamo, y sin juntarlas con las zanahorias</li></i>
+<li><i>Dejamos enfriar los ingredientes  </li></i>
+<li><i>Sobre una esterilla de bambú colocamos el alga, sobre esta el arroz extendido y finalmente, el resto de ingredientes  </li></i>
+<li><i>Con la ayuda de la esterilla, enrollamos el rollo. Si es necesario, podemos humedecer el extremo del alga para que se mantenga enrollado  </li></i>
+<li><i>Con un cuchillo muy afilado, cortamos el rollo en “bocaditos”  </li></i>
+<li><i>Coge con lo palillos cada uno de estos bocados, mójalo ligeramente en salsa de soja y ¡a disfrutar!  </li></i>
+
+<a href="#menú">Ir al inicio</a>
+<!--Edwards Santos Carrión-->
+</body>
+</html>

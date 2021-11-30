@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<title>Formulario de contacto</title>
+<h1 align="center"> INFORMACIÓN </h1>
+<body>
+<body background="fotos/fondo1.jpg">
+
+<h2><font size="4" face="Arial Narrow" color="000106"> CONTACTO </h2>
+<h3> ¡Ordene aquí su pedido! </h3>
+
+<form action="submeter-formulario.php"method="post">
+<p>
+<label for="nombre" class="colocar_nombre"> Nombre
+<span class="obligatorio">*</span>
+</label>
+
+<input type="text" name="introducir_nombre" id="nombre" required="obligatorio" placeholder="Escriba su nombre">
+</p>
+
+<p>
+<label for="e-mail" class="colocar_e-mail"> E-mail
+<span class="obligatorio">*</span>
+</label>
+
+<input type="text" name="introducir_e-mail" id="e-mail" required="obligatorio" placeholder="Escriba su e-mail">
+</p>
+
+<p>
+<label for="teléfono" class="colocar_teléfono"> Teléfono
+<span class="obligatorio">*</span>
+</label>
+
+<input type="text" name="introducir_teléfono" id="teléfono" required="obligatorio" placeholder="Escriba su teléfono">
+</p>
+<p>
+<label for="mensaje" class="colocar_mensaje"> Mensaje 
+<span class="obligatorio">*</span>
+<textarea name="mensaje" rows="10" cols="40">
+	</textarea></td>
+</label>
+</p>
+<p style="text-align: right;"><span class="ff1 cf2 fs24"><b><br /></b></span><b><span class="cf3 ff1 fs24"> Calle Praderas del Rocio cerca de Alhambra edificio el<br />&quot;Zaita&quot; planta baja <br />Telf: 258-<wbr>6192 / 258-<wbr>6192 Cel: 65289611 <br />Sucursal: Panama Norte km 10 via a Las Cumbres</span><span class="fs27 cf3 ff1"> </span></b><span class="ff2 fs20"><br /></span></p>
+
+<button type="submit" name="enviar_formulario"id="enviar"><p>Enviar</p></button>
+<button type="submit" name="resetear_formulario"id="resetear"><p>Resetear</p></button>
+</p>
+</form>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+ <body background="fondo de pantalla del título.jpg">
+<table align="left">
+<h1 align="center"><font face="arial"> Floristería Haus </font> </h1>
+<th><img src="fotos/gif01.gif" width="160" height="130"></td>
+<th><img src="fotos/gif02.gif" width="160" height="130"></td>
+<th><img src="fotos/gif03.gif" width="160" height="130"></td>
+<th><img src="fotos/gif04.gif" width="160" height="130"></td>
+<th><img src="fotos/gif05.gif" width="160" height="130"></td>
+	<th><img src="fotos/gif06.gif" width="160" height="130"></td>
+	<th><img src="fotos/gif07.gif" width="160" height="130"></td>
+	<th><img src="fotos/gif08.gif" width="160" height="130"></td>
+	<th><img src="fotos/gif09.gif" width="160" height="130"></td>
+	<th><img src="fotos/gif10.gif" width="160" height="130"></td>
+<th><img src="fotos/gif11.gif" width="160" height="130"></td>
+
+
+<td><h1 align="center"></h1> </td>
+</tr>
+</table>
+</body>
+
+</html>
